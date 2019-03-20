@@ -1,7 +1,7 @@
 {
   "active": true,
   "caller": "Joe Black",
-  "category": 3,
+  "category": "network,
   "description": "Bug in latest patch.",
   "urgency": 1
 }
