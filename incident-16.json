@@ -1,0 +1,9 @@
+{
+  "active": true,
+  "caller": "Joe Black",
+  "category": "network",
+  "description": "Patch in progress",
+  "impact": 1,
+  "state": 2,
+  "urgency": 1
+}
