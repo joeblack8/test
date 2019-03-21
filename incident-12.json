@@ -2,6 +2,7 @@
   "active": true,
   "caller": "Joe Black",
   "category": "network",
-  "description": "Node update",
+  "description": "Fetch update",
+  "state": 2
   "urgency": 1
 }
