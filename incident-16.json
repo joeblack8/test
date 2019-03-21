@@ -2,8 +2,8 @@
   "active": true,
   "caller": "Joe Black",
   "category": "network",
-  "short-description": "AI attack on network",
   "impact": 1,
+  "short-description": "AI attack on network",
   "state": 2,
   "urgency": 1
 }
