@@ -3,6 +3,6 @@
   "caller": "Joe Black",
   "category": "network",
   "description": "Fetch update",
-  "state": 2
+  "state": 2,
   "urgency": 1
 }
