@@ -1,9 +1,0 @@
-{
-  "active": true,
-  "caller": "Joe Black",
-  "category": "network",
-  "impact": 1,
-  "short-description": "AI attack on network",
-  "state": 2,
-  "urgency": 1
-}
